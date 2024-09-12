@@ -14,6 +14,7 @@ public class Book {
     private String name;
     private String author;
     private Year publishYear;
+    private String language;
 
     public Long getId() {
         return id;
